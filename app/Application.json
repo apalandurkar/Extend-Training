@@ -1,0 +1,11 @@
+{
+  "applicationId" : "c7ad5bea-eb23-4063-a651-59ca94b12a93",
+  "applicationName" : "asish",
+  "icon" : "LogoIconOnlyBenchmarkingComponent",
+  "sections" : [ ],
+  "accessRoles" : [ ],
+  "applicationState" : "DRAFT",
+  "gitUrl" : "https://github.com/apalandurkar/Extend-Training",
+  "defaultBranch" : "main",
+  "applicationI18nFiles" : [ ]
+}
